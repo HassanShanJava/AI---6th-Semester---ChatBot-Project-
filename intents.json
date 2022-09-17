@@ -54,8 +54,9 @@
         "How do I pay?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Cash",
-        "We accept most major credit cards, and Cash"
+        "We accept VISA, Mastercard and Cash.",
+        "We accept most major credit cards, and Cash.",
+        "We accept BTC, and ETH's too."
       ]
     },
     {
@@ -79,7 +80,7 @@
         "Do you know a joke?"
       ],
       "responses": [
-        "Bahria is a joke jk",
+        "Life is ! a joke",
         "dude, I'm not a funny bot.",
         "Am I a joke to u?",
         "No jokkes today"
